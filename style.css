@@ -74,6 +74,7 @@ h1 {
 
 .further-info {
     padding: 0 70px;
+    padding-bottom: 70px;
 }
 
 .further-info>h2 {
@@ -100,4 +101,11 @@ h1 {
 .info-box-img {
     height: 150px;
     width: auto;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #1f2937;
+    color: #e5e7eb;
 }
